@@ -17,4 +17,4 @@ Welcome to my portfolio! I am Sheharyar, a self-taught front-end developer from 
 
  Thank you for visiting my portfolio, and I look forward to connecting with you soon!
 
-# [Click to Visit](https://sheharyar0503.github.io/portfolio/index.html)
+# [Click to Visit](https://sheharyar0503.github.io/Portfolio/)
